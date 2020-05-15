@@ -1,0 +1,46 @@
+
+#particles-js{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    background-color:black;
+}
+
+.centrar{
+    margin:0 auto;
+}
+
+.CentrarDos{
+    margin-left:50%;
+    margin-right: 50%;
+}
+
+audio{
+    width:100%;
+}
+
+.centrarVertical{
+    margin-top:15%;
+}
+
+.esconder{
+    display:none;
+}
+
+#WebTelePhone{
+    color:white;
+}
+/* 
+.colorCard{
+    background-color: #AF7AC5 !important;
+} */
+
+.numGenerado{
+    padding:3px;
+    border-radius: 5px;
+    border:1px solid white;
+    background-color:white;
+    width:30%;
+}
+
